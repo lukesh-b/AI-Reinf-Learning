@@ -7,4 +7,6 @@ And, the more points you get, the better you are doing !!
 
 Let’s teach machines how to learn.
 Let’s begin the journey !!!
+
+I am still working on my private repo to try and bring some of it after testing in my public repo
 ```
